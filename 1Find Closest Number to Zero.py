@@ -109,7 +109,7 @@ def findClosestNumberToZero(nums):
 #
 
 
-# Test cases
+# Test cases nice
 test1 = [3, -2, 2, -1, 1, 0]
 test2 = [-4, -2, -3, -1]
 test3 = [5, 2, 3, 1]
